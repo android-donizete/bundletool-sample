@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RQAndroid</string>
+    <string name="big_text"></string>
 </resources>
